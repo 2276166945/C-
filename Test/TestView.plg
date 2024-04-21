@@ -1,0 +1,27 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: TestView - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\ADMINI~1.SD-\AppData\Local\Temp\RSP5C46.tmp" with contents
+[
+/nologo /MLd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_CONSOLE" /D "_MBCS" /Fp"Debug/TestView.pch" /YX /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"C:\Users\Administrator.SD-201411290024\Desktop\vs2010\案例11-二维图形几何变换算法\Test\TestView.cpp"
+]
+Creating command line "cl.exe @"C:\Users\ADMINI~1.SD-\AppData\Local\Temp\RSP5C46.tmp"" 
+<h3>Output Window</h3>
+Compiling...
+TestView.cpp
+c:\users\administrator.sd-201411290024\desktop\vs2010\案例11-二维图形几何变换算法\test\targetver.h(8) : fatal error C1083: Cannot open include file: 'SDKDDKVer.h': No such file or directory
+执行 cl.exe 时出错.
+
+
+
+<h3>Results</h3>
+TestView.obj - 1 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
